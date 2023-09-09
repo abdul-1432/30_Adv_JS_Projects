@@ -46,6 +46,6 @@ For instructions on how to run each project, please refer to the respective proj
 This project is licensed under the [MIT License](LICENSE.md).
 
 Happy coding! 🚀
-```
+
 
 Replace the placeholder values like `[Demo](project1-demo-link)` with actual demo links and `[Project 1](project1-demo-image.png)` with actual image file paths for each project. Also, ensure that you have a LICENSE.md file for your project and update the license information accordingly.
