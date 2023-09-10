@@ -12,7 +12,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 4    | Project 4             | [Demo](project4-demo-link)                   | ![Color matching game](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/226a1ba7-1e23-4047-bd6b-46135e5d152e)|
 | 5    | Project 5             | [Demo](project5-demo-link)                   | ![CSS background generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/2883417d-0475-4cfd-8311-6e2e237d4539)|
 | 6    | Project 6             | [Demo](project6-demo-link)                   | ![Drawing app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e2a540e5-e881-4a42-aae3-74d2d59532d4)|
-| 7    | Project 7             | [Demo](project7-demo-link)                   | ![Project 7](project7-demo-image.png)         |
+| 7    | Project 7             | [Demo](project7-demo-link)                   | ![fancy font generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/a138932b-9732-4aed-b9b3-96f0a2a54f6a)|
 | 8    | Project 8             | [Demo](project8-demo-link)                   | ![Project 8](project8-demo-image.png)         |
 | 9    | Project 9             | [Demo](project9-demo-link)                   | ![Project 9](project9-demo-image.png)         |
 | 10   | Project 10            | [Demo](project10-demo-link)                  | ![Project 10](project10-demo-image.png)       |
