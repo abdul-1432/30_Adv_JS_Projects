@@ -10,7 +10,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 2    | ASCII Value Reader    | [Demo](project2-demo-link)                   | ![ASCII value reader](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/c28445b1-aaa2-4261-b113-99a7b1c4cb2a)|
 | 3    | Project 3             | [Demo](project3-demo-link)                   | ![Captcha generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/4039ad2a-e173-4eb7-a3a7-20a96d190e6f)|
 | 4    | Project 4             | [Demo](project4-demo-link)                   | ![Color matching game](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/226a1ba7-1e23-4047-bd6b-46135e5d152e)|
-| 5    | Project 5             | [Demo](project5-demo-link)                   | ![Project 5](project5-demo-image.png)         |
+| 5    | Project 5             | [Demo](project5-demo-link)                   | ![CSS background generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/2883417d-0475-4cfd-8311-6e2e237d4539)|
 | 6    | Project 6             | [Demo](project6-demo-link)                   | ![Project 6](project6-demo-image.png)         |
 | 7    | Project 7             | [Demo](project7-demo-link)                   | ![Project 7](project7-demo-image.png)         |
 | 8    | Project 8             | [Demo](project8-demo-link)                   | ![Project 8](project8-demo-image.png)         |
