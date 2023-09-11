@@ -18,7 +18,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 10   | Project 10            | [Demo](project10-demo-link)                  | ![QR code generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/4abf8749-2ffc-463e-ba51-be96d520dde5)|
 | 11   | Project 11            | [Demo](project11-demo-link)                  | ![Random coloe code generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/6762925b-a959-4aac-a71b-3871d8fbb77a)|
 | 12   | Project 12            | [Demo](project12-demo-link)                  | ![Random quote generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/5513f00e-5788-4a47-92b7-1f4bd1261969)|
-| 13   | Project 13            | [Demo](project13-demo-link)                  | ![Project 13](project13-demo-image.png)       |
+| 13   | Project 13            | [Demo](project13-demo-link)                  | ![scientific calculator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/c653e6e5-4bca-4534-ba1c-2b96a358d7e1)|
 | 14   | Project 14            | [Demo](project14-demo-link)                  | ![Project 14](project14-demo-image.png)       |
 | 15   | Project 15            | [Demo](project15-demo-link)                  | ![Project 15](project15-demo-image.png)       |
 | 16   | Project 16            | [Demo](project16-demo-link)                  | ![Project 16](project16-demo-image.png)       |
