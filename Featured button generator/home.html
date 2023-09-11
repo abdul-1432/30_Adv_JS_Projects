@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feature button generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="project">
+        <div class="credits">
+          <h1>Made By Abdul</h1>
+        </div>
+        <div class="everything-container">
+          <div class="outer-container">
+            <div class="container">
+              <div class="section">
+                        <h3 style="text-align: center;">Click the buttons to copy HTML & CSS code</h3>
+                <div class="button-container">
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                </div>
+      
+                <div class="button-container">
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                </div>
+      
+                <div class="button-container">
+                  <button>
+                    <p>Button</p>
+      
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                </div>
+                <div class="button-container">
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                  <button>
+                    <p>Button</p>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+      
+          <div class="panel">
+            <div class="title">
+              <h3>Input Button Text</h3>
+            </div>
+            <input type="text" id="input-text" placeholder="select button name">
+            <button id="random-button-text" style="background-color: #2196f3; border-radius: 4px;">Generate text</button>
+            <div class="title">
+              <h3>Randomize Button Styles</h3>
+            </div>
+            <button id="random-style-button" style="background-color: #2196f3; border-radius: 4px;">Generate color</button>
+            <div style="display: flex; width: 100%; flex-direction: column; margin-top: 20px;">
+              <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+                <p>Icon Side</p>
+                <label class="toggle-switch">
+                  <input type="checkbox" id="toggle-icon-side" />
+                  <span class="slider"></span>
+                </label>
+              </div>
+              <div style="display: flex; width: 100%; align-items: center; justify-content: space-around; background-color: #2196f3; border-radius: 8px;" id="icon-side-options">
+                <button style="border-radius: 8px; padding: 8px 16px;" id="left-option">Left</button>
+                <button style="border-radius: 8px; padding: 8px 16px;" id="right-option">Right</button>
+              </div>
+      
+              <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+                <p>Round Button</p>
+                <label class="toggle-switch">
+                  <input type="checkbox" id="toggle-round-button" />
+                  <span class="slider"></span>
+                </label>
+              </div>
+              <div style="display: flex; justify-content: space-around; width: 100%; gap: 8px;" id="corner-inputs">
+                <input type="text" style="width: inherit;" id="left-top-input">
+                <input type="text" style="width: inherit;" id="right-top-input">
+                <input type="text" style="width: inherit;" id="right-bottom-input">
+                <input type="text" style="width: inherit;" id="left-bottom-input">
+              </div>
+            </div>
+          </div>
+          <script src="script.js"></script>
+</body>
+</html>
