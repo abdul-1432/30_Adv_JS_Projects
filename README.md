@@ -10,7 +10,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 2    | ASCII Value Reader    | [Demo](project2-demo-link)                   | ![ASCII value reader](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/c28445b1-aaa2-4261-b113-99a7b1c4cb2a)|
 | 3    | Captcha generator     | [Demo](project3-demo-link)                   | ![Captcha generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/4039ad2a-e173-4eb7-a3a7-20a96d190e6f)|
 | 4    | Color matching game   | [Demo](project4-demo-link)                   | ![Color matching game](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/226a1ba7-1e23-4047-bd6b-46135e5d152e)|
-| 5    | Project 5             | [Demo](project5-demo-link)                   | ![CSS background generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/2883417d-0475-4cfd-8311-6e2e237d4539)|
+| 5    | CSS background generator| [Demo](project5-demo-link)                   | ![CSS background generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/2883417d-0475-4cfd-8311-6e2e237d4539)|
 | 6    | Project 6             | [Demo](project6-demo-link)                   | ![Drawing app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e2a540e5-e881-4a42-aae3-74d2d59532d4)|
 | 7    | Project 7             | [Demo](project7-demo-link)                   | ![fancy font generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/a138932b-9732-4aed-b9b3-96f0a2a54f6a)|
 | 8    | Project 8             | [Demo](project8-demo-link)                   | ![Feature button generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/74ea15a1-88e6-45d9-9422-008c272e0846)|
