@@ -13,7 +13,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 5    | CSS background generator| [Demo](project5-demo-link)                 | ![CSS background generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/2883417d-0475-4cfd-8311-6e2e237d4539)|
 | 6    | Drawing app           | [Demo](project6-demo-link)                   | ![Drawing app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e2a540e5-e881-4a42-aae3-74d2d59532d4)|
 | 7    | fancy font generator  | [Demo](project7-demo-link)                   | ![fancy font generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/a138932b-9732-4aed-b9b3-96f0a2a54f6a)|
-| 8    | Project 8             | [Demo](project8-demo-link)                   | ![Feature button generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/74ea15a1-88e6-45d9-9422-008c272e0846)|
+| 8    | Feature button generator    | [Demo](project8-demo-link)                   | ![Feature button generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/74ea15a1-88e6-45d9-9422-008c272e0846)|
 | 9    | Project 9             | [Demo](project9-demo-link)                   | ![File uploader](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/98af70f7-06f2-484d-b892-c6a482aca625)|
 | 10   | Project 10            | [Demo](project10-demo-link)                  | ![QR code generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/4abf8749-2ffc-463e-ba51-be96d520dde5)|
 | 11   | Project 11            | [Demo](project11-demo-link)                  | ![Random coloe code generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/6762925b-a959-4aac-a71b-3871d8fbb77a)|
