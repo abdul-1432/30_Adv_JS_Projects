@@ -22,7 +22,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 14   | screen recoder        | [Demo](project14-demo-link)                  | ![screen recoder](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/b0b638ea-22a0-415d-851d-e609d9ff75e0)|
 | 15   | Serch using Wikipedia | [Demo](project15-demo-link)                  | ![Serch using Wikipedia](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/7f25781a-6c76-42b9-a448-549045082a50)|
 | 16   | TIC tac toe           | [Demo](project16-demo-link)                  | ![TIC tac toe ](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/75111d5b-abfb-4359-b00c-07b4d4602e8b)|
-| 17   | Project 17            | [Demo](project17-demo-link)                  | ![TO DO app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e36f46a9-8422-466f-b9bd-a0ee564ff924)|
+| 17   | TO DO app             | [Demo](project17-demo-link)                  | ![TO DO app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e36f46a9-8422-466f-b9bd-a0ee564ff924)|
 | 18   | Project 18            | [Demo](project18-demo-link)                  | ![Project 18](project18-demo-image.png)       |
 | 19   | Project 19            | [Demo](project19-demo-link)                  | ![Project 19](project19-demo-image.png)       |
 | 20   | Project 20            | [Demo](project20-demo-link)                  | ![Project 20](project20-demo-image.png)       |
