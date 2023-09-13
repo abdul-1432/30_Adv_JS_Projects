@@ -1,0 +1,39 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100%;
+  }
+  h1{
+    text-align: center;
+    color: #000;
+    stroke-width: 20%;
+  }
+  input{
+    padding: 8px 14px;
+    border-radius: 4px;
+    outline: none;
+    border: 2px solid #E8CCFF;
+    display: block;
+    font-size: 16px;
+    margin: 5px;
+  }
+  .container{
+    text-align: center;
+  }
+  .img{
+    margin: 10px;
+    height: 150px;
+  }
+  button{
+    background: #971AFF;
+    padding: 10px 15px;
+    border: 1px solid #971AFF;
+    border-radius: 5px;
+    color: white;
+    display: block;
+    margin: 15px auto;
+    cursor: pointer;
+  }
+  button:hover{
+    opacity: .8;
+  }
