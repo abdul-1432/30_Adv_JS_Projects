@@ -19,7 +19,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 11   | Random color code generator| [Demo](project11-demo-link)             | ![Random color code generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/6762925b-a959-4aac-a71b-3871d8fbb77a)|
 | 12   | Random quote generator| [Demo](project12-demo-link)                  | ![Random quote generator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/5513f00e-5788-4a47-92b7-1f4bd1261969)|
 | 13   | scientific calculator | [Demo](project13-demo-link)                  | ![scientific calculator](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/c653e6e5-4bca-4534-ba1c-2b96a358d7e1)|
-| 14   | Project 14            | [Demo](project14-demo-link)                  | ![screen recoder](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/b0b638ea-22a0-415d-851d-e609d9ff75e0)|
+| 14   | screen recoder        | [Demo](project14-demo-link)                  | ![screen recoder](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/b0b638ea-22a0-415d-851d-e609d9ff75e0)|
 | 15   | Project 15            | [Demo](project15-demo-link)                  | ![Serch using Wikipedia](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/7f25781a-6c76-42b9-a448-549045082a50)|
 | 16   | Project 16            | [Demo](project16-demo-link)                  | ![TIC tac toe ](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/75111d5b-abfb-4359-b00c-07b4d4602e8b)|
 | 17   | Project 17            | [Demo](project17-demo-link)                  | ![TO DO app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e36f46a9-8422-466f-b9bd-a0ee564ff924)|
