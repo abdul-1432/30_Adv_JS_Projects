@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Scientific Calculator</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Calculator</h1>
+        <table>
+            <tr>
+                <td>
+                    <input id="input" type="text" placeholder="0" readonly style="margin: 10px;">          
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input id="output" type="text" placeholder="Your output"readonly>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="CE" onclick="clearScreen()" style="background: rgb(105, 45, 54); color: aliceblue;">
+                    <input type="button" value="&#247;" onclick="getOperand('/')">
+                    <input type="button" value="x" onclick="getOperand('x')">
+                    <input type="button" value="()" onclick="brackets()">
+                    <input type="button" value="&#8592;" onclick="backspace()" style="color: red;">
+                    <br>
+                    <input type="button" value="1" onclick="getNumber(1)">
+                    <input type="button" value="2" onclick="getNumber(2)">
+                    <input type="button" value="3" onclick="getNumber(3)">
+                    <input type="button" value="+" onclick="getOperand('+')">
+                    <input type="button" value="sin" onclick="sin()">
+                    <br>
+                    <input type="button" value="4" onclick="getNumber(4)">
+                    <input type="button" value="5" onclick="getNumber(5)">
+                    <input type="button" value="6" onclick="getNumber(6)">
+                    <input type="button" value="-" onclick="getOperand('-')">
+                    <input type="button" value="cos" onclick="cos()">
+                    <br>
+                    <input type="button" value="7" onclick="getNumber(7)">
+                    <input type="button" value="8" onclick="getNumber(8)">
+                    <input type="button" value="9" onclick="getNumber(9)">
+                    <input type="button" value="ln" onclick="ln()">
+                    <input type="button" value="tan" onclick="tan()">
+                    <br>
+                    <input type="button" value="+/-" onclick="getOperand('+/-')">
+                    <input type="button" value="0" onclick="getNumber(0)">
+                    <input type="button" value="&pi;" onclick="pi()">
+                    <input type="button" value="x^2" onclick="sqr()">
+                    <input type="button" value="&radic;" onclick="squrt()">
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="&#37;" onclick="per()">
+                    <input type="button" value="Exp" onclick="expo()">
+                    <input type="button" value="=" onclick="compute()" style="width: 209px; background: rgb(46, 223, 155);">
+                </td>
+            </tr>
+        </table>
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>

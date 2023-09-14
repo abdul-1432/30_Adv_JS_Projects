@@ -1,0 +1,50 @@
+table{
+    width: auto;
+    margin: auto;
+    padding: auto;
+    background: #CCC;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    font: 3em sans-serif;
+    padding: auto;
+    top: 0%;
+    color: #ffffff;
+}
+body{
+    background-color: #444;
+}
+#input, #output{
+    height: 50px;
+    font-size: 200%;
+    text-align: right;
+    border: none;
+    width: 360px;
+}
+#input{
+    border-radius: 3px;
+    box-shadow: 2px black;
+    color: #000;
+}
+#output{
+    border-radius: 3px;
+    box-shadow: 2px black;
+    color: #444;
+}
+input[type=button]{
+    height: 60px;
+    width: 60px;
+    color: #444;
+    background-color: lightgoldenrodyellow;
+    margin: 5px;
+    border-radius: 3px;
+    border: none;
+    font-size: 1.5em;
+}
+input[type=button]:hover{
+    background: #ffeaeadc;
+    cursor: pointer;
+}
