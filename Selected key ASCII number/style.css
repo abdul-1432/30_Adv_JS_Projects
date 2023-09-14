@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+    background-color: gold;
+  }
+  
+  input {
+    padding: 0.4em;
+    background-color: paleturquoise;
+    color: black;
+    border: 8px solid black;
+    font-size: 1.6em;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+    font-family: Courier New, Courier, monospace;
+  }
+  
+  input::placeholder {
+    color: black;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  
+  .output {
+    font-size: 1.6em;
+  }
