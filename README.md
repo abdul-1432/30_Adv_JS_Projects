@@ -26,7 +26,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 18   | Project 18            | [Demo](project18-demo-link)                  | ![Project 18](https://i.ibb.co/Zh0m0SN/currency-conveter.png)       |
 | 19   | Project 19            | [Demo](project19-demo-link)                  | ![Project 19](https://i.ibb.co/PGwMcjX/gaming.png)       |
 | 20   | Project 20            | [Demo](project20-demo-link)                  | ![Project 20](https://i.ibb.co/xfVjntY/light-house-builder.png)       |
-| 21   | Project 21            | [Demo](project21-demo-link)                  | ![Project 21](project21-demo-image.png)       |
+| 21   | Project 21            | [Demo](project21-demo-link)                  | ![Project 21](https://i.ibb.co/KLgsdG6/movie-rating-app.png)       |
 | 22   | Project 22            | [Demo](project22-demo-link)                  | ![Project 22](project22-demo-image.png)       |
 | 23   | Project 23            | [Demo](project23-demo-link)                  | ![Project 23](project23-demo-image.png)       |
 | 24   | Project 24            | [Demo](project24-demo-link)                  | ![Project 24](project24-demo-image.png)       |
