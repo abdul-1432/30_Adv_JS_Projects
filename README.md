@@ -30,7 +30,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 22   | Project 22            | [Demo](project22-demo-link)                  | ![Project 22](https://i.ibb.co/mG1rhHm/passwors-generator.png)       |
 | 23   | Project 23            | [Demo](project23-demo-link)                  | ![Project 23](https://i.ibb.co/thHJfNH/speach-to-text-convert.png)       |
 | 24   | Project 24            | [Demo](project24-demo-link)                  | ![Project 24](https://i.ibb.co/mNnYWvC/weather-app.png)       |
-| 25   | Project 25            | [Demo](project25-demo-link)                  | ![Project 25](project25png)       |
+| 25   | Project 25            | [Demo](project25-demo-link)                  | ![Project 25](https://i.ibb.co/1fkQwdQ/emoge-art-generator.png)       |
 | 26   | Project 26            | [Demo](project26-demo-link)                  | ![Project 26](project26png)       |
 | 27   | Project 27            | [Demo](project27-demo-link)                  | ![Project 27](project27png)       |
 | 28   | Project 28            | [Demo](project28-demo-link)                  | ![Project 28](project28-demo-image.png)       |
