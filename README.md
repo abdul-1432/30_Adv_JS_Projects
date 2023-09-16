@@ -35,7 +35,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 27   | Project 27            | [Demo](project27-demo-link)                  | ![Project 27](https://i.ibb.co/sPpdR36/stick-hero.png)       |
 | 28   | Project 28            | [Demo](project28-demo-link)                  | ![Project 28](https://i.ibb.co/0t4mqdk/key-coder.png)       |
 | 29   | Project 29            | [Demo](project29-demo-link)                  | ![Project 29](https://i.ibb.co/WDVhb7D/text-to-speach-conveter.png)       |
-| 30   | Project 30            | [Demo](project30-demo-link)                  | ![Project 30](project30-demo-image.png)       |
+| 30   | Project 30            | [Demo](project30-demo-link)                  | ![Project 30]()       |
 
 ## How to Run Each Project
 
