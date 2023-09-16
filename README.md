@@ -23,7 +23,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 15   | Serch using Wikipedia | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/serching%20using%20wikipedia/home)                  | ![Serch using Wikipedia](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/7f25781a-6c76-42b9-a448-549045082a50)|
 | 16   | TIC tac toe           | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/tic%20tac%20toe%20game/home)                  | ![TIC tac toe ](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/75111d5b-abfb-4359-b00c-07b4d4602e8b)|
 | 17   | TO DO app             | [Demo](project17-demo-link)                  | ![TO DO app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e36f46a9-8422-466f-b9bd-a0ee564ff924)|
-| 18   | Project 18            | [Demo](project18-demo-link)                  | ![Project 18](project18-demo-image.png)       |
+| 18   | Project 18            | [Demo](project18-demo-link)                  | ![Project 18](https://i.ibb.co/Zh0m0SN/currency-conveter.png)       |
 | 19   | Project 19            | [Demo](project19-demo-link)                  | ![Project 19](project19-demo-image.png)       |
 | 20   | Project 20            | [Demo](project20-demo-link)                  | ![Project 20](project20-demo-image.png)       |
 | 21   | Project 21            | [Demo](project21-demo-link)                  | ![Project 21](project21-demo-image.png)       |
