@@ -33,7 +33,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 25   | Project 25            | [Demo](project25-demo-link)                  | ![Project 25](https://i.ibb.co/1fkQwdQ/emoge-art-generator.png)       |
 | 26   | Project 26            | [Demo](project26-demo-link)                  | ![Project 26](https://i.ibb.co/pR9r3HP/notepad-app.png)       |
 | 27   | Project 27            | [Demo](project27-demo-link)                  | ![Project 27](https://i.ibb.co/sPpdR36/stick-hero.png)       |
-| 28   | Project 28            | [Demo](project28-demo-link)                  | ![Project 28](project28-demo-image.png)       |
+| 28   | Project 28            | [Demo](project28-demo-link)                  | ![Project 28](https://i.ibb.co/0t4mqdk/key-coder.png)       |
 | 29   | Project 29            | [Demo](project29-demo-link)                  | ![Project 29](project29-demo-image.png)       |
 | 30   | Project 30            | [Demo](project30-demo-link)                  | ![Project 30](project30-demo-image.png)       |
 
