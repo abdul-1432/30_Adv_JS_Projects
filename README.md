@@ -24,7 +24,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 16   | TIC tac toe           | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/tic%20tac%20toe%20game/home)                  | ![TIC tac toe ](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/75111d5b-abfb-4359-b00c-07b4d4602e8b)|
 | 17   | TO DO app             | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/todo%20app/home)                  | ![TO DO app](https://github.com/abdul-1432/30_Adv_JS_Projects/assets/124916666/e36f46a9-8422-466f-b9bd-a0ee564ff924)|
 | 18   | Project 18            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/currency%20converter/home)                  | ![Project 18](https://i.ibb.co/Zh0m0SN/currency-conveter.png)       |
-| 19   | Project 19            | [Demo](project19-demo-link)                  | ![Project 19](https://i.ibb.co/PGwMcjX/gaming.png)       |
+| 19   | Project 19            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/gaming%20landing%20page/)                  | ![Project 19](https://i.ibb.co/PGwMcjX/gaming.png)       |
 | 20   | Project 20            | [Demo](project20-demo-link)                  | ![Project 20](https://i.ibb.co/xfVjntY/light-house-builder.png)       |
 | 21   | Project 21            | [Demo](project21-demo-link)                  | ![Project 21](https://i.ibb.co/KLgsdG6/movie-rating-app.png)       |
 | 22   | Project 22            | [Demo](project22-demo-link)                  | ![Project 22](https://i.ibb.co/mG1rhHm/passwors-generator.png)       |
