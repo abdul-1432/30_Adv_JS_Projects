@@ -30,7 +30,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 22   | Project 22            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/Projects/Password%20Generator/index.html)                  | ![Project 22](https://i.ibb.co/mG1rhHm/passwors-generator.png)       |
 | 23   | Project 23            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/speach%20to%20text%20converter/home)                  | ![Project 23](https://i.ibb.co/thHJfNH/speach-to-text-convert.png)       |
 | 24   | Project 24            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/weather%20app/)                  | ![Project 24](https://i.ibb.co/mNnYWvC/weather-app.png)       |
-| 25   | Project 25            | [Demo](project25-demo-link)                  | ![Project 25](https://i.ibb.co/1fkQwdQ/emoge-art-generator.png)       |
+| 25   | Project 25            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/emoji%20photo%20generator/home)                  | ![Project 25](https://i.ibb.co/1fkQwdQ/emoge-art-generator.png)       |
 | 26   | Project 26            | [Demo](project26-demo-link)                  | ![Project 26](https://i.ibb.co/pR9r3HP/notepad-app.png)       |
 | 27   | Project 27            | [Demo](project27-demo-link)                  | ![Project 27](https://i.ibb.co/sPpdR36/stick-hero.png)       |
 | 28   | Project 28            | [Demo](project28-demo-link)                  | ![Project 28](https://i.ibb.co/0t4mqdk/key-coder.png)       |
