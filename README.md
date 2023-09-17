@@ -26,7 +26,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 18   | Project 18            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/currency%20converter/home)                  | ![Project 18](https://i.ibb.co/Zh0m0SN/currency-conveter.png)       |
 | 19   | Project 19            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/gaming%20landing%20page/)                  | ![Project 19](https://i.ibb.co/PGwMcjX/gaming.png)       |
 | 20   | Project 20            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/light%20house%20builder/home)                  | ![Project 20](https://i.ibb.co/xfVjntY/light-house-builder.png)       |
-| 21   | Project 21            | [Demo](project21-demo-link)                  | ![Project 21](https://i.ibb.co/KLgsdG6/movie-rating-app.png)       |
+| 21   | Project 21            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/movie-app/)                  | ![Project 21](https://i.ibb.co/KLgsdG6/movie-rating-app.png)       |
 | 22   | Project 22            | [Demo](project22-demo-link)                  | ![Project 22](https://i.ibb.co/mG1rhHm/passwors-generator.png)       |
 | 23   | Project 23            | [Demo](project23-demo-link)                  | ![Project 23](https://i.ibb.co/thHJfNH/speach-to-text-convert.png)       |
 | 24   | Project 24            | [Demo](project24-demo-link)                  | ![Project 24](https://i.ibb.co/mNnYWvC/weather-app.png)       |
