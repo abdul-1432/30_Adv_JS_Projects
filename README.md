@@ -34,7 +34,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 26   | Project 26            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/note-app/)                  | ![Project 26](https://i.ibb.co/pR9r3HP/notepad-app.png)       |
 | 27   | Project 27            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/stick%20hero%20game/home)                  | ![Project 27](https://i.ibb.co/sPpdR36/stick-hero.png)       |
 | 28   | Project 28            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/text%20to%20speach%20converter/home)                  | ![Project 28](https://i.ibb.co/0t4mqdk/key-coder.png)       |
-| 29   | Project 29            | [Demo](project29-demo-link)                  | ![Project 29](https://i.ibb.co/WDVhb7D/text-to-speach-conveter.png)       |
+| 29   | Project 29            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/text%20to%20speach%20converter/home)                  | ![Project 29](https://i.ibb.co/WDVhb7D/text-to-speach-conveter.png)       |
 | 30   | Project 30            | [Demo](project30-demo-link)                  | ![Project 30](https://i.ibb.co/z4Q0YRJ/github-user-serch.png)       |
 
 ## How to Run Each Project
