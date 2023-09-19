@@ -35,7 +35,7 @@ Welcome to the repository containing 30 advanced JavaScript projects to help you
 | 27   | Stick Hero Game            | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/stick%20hero%20game/home)                  | ![Project 27](https://i.ibb.co/sPpdR36/stick-hero.png)       |
 | 28   |             | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/text%20to%20speach%20converter/home)                  | ![Project 28](https://i.ibb.co/0t4mqdk/key-coder.png)       |
 | 29   | Text to Speach Convetor           | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/text%20to%20speach%20converter/home)                  | ![Project 29](https://i.ibb.co/WDVhb7D/text-to-speach-conveter.png)       |
-| 30   |             | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/searching%20github%20profiles/home)                  | ![Project 30](https://i.ibb.co/z4Q0YRJ/github-user-serch.png)       |
+| 30   |  GitHub User Serch     | [Demo](https://gafoor.netlify.app/projects/all/30%20adv%20javascript/assets/projects/searching%20github%20profiles/home)                  | ![Project 30](https://i.ibb.co/z4Q0YRJ/github-user-serch.png)       |
 
 ## How to Run Each Project
 
